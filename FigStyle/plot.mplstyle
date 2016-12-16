@@ -1,0 +1,13 @@
+axes.titlesize: 20
+axes.labelsize: 18
+axes.grid : True
+axes.linewidth: 2.0
+
+figure.dpi : 100
+
+lines.linewidth : 3
+
+legend.fontsize : x-large
+
+xtick.labelsize : 16
+ytick.labelsize : 16
